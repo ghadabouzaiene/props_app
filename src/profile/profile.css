@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Satisfy&display=swap');
+
+
+
+.my-profile {
+    text-align: center;
+    margin: 500px;
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: Satisfy;
+    box-shadow: 5px 5px 10px 8px rgb(235, 231, 235) ;
+    color: rgb(255, 255, 255);
+    opacity: 80%;
+    border-radius: 20px;
+    
+}
+.welcome {
+    color:#3779a5;
+    font-size: 60px;
+    font-weight: bold;
+    font-family:Indie Flower;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    text-shadow: 2px 5px 2px  #a09f9e;
+    opacity: 80%;
+}
+.file-import {
+    font-size: small;
+    padding: 5px;
+}
+.full-name {
+    font-size: 30px;
+    font-family:Indie Flower;
+    letter-spacing: 5px;
+}
+#file-input{
+    border-radius: 2px;
+}
